@@ -1,0 +1,7 @@
+Server: Apache-Coyote/1.1
+X-Ddc-Arch-Trace: cms_cookie,PostJava,NoCustomMatch,JavaPoolDRR-la1websol-cms-bigpool05,CMSRequestTrace,HttpResponse
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=7200
+Expires: Tue, 06 Nov 2018 23:43:46 GMT
+Date: Tue, 06 Nov 2018 21:43:46 GMT

@@ -1,0 +1,15 @@
+Server: Apache-Coyote/1.1
+X-Ddc-Arch-Trace: cms_cookie,PostJava,NoCustomMatch,CmsPoolSelector,JavaPoolDRR-la1websol-cms-botpool03,CMSRequestTrace,HttpResponse,CookieSet
+Vary: User-Agent, Accept-Encoding
+P3P: "https://secure4.dealer.com/P3P/PolicyReferences.xml", CP="NOI DSP COR DEVa TAIa OUR BUS UNI"
+Content-Type: text/html;charset=utf-8
+Content-Encoding: gzip
+Expires: Tue, 06 Nov 2018 21:43:57 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 06 Nov 2018 21:43:57 GMT
+Set-Cookie: locale=en_US; Expires=Thu, 06-Dec-2018 21:43:57 GMT; Path=/
+Set-Cookie: searchHistory=%5B%7B%22types%22%3A%5B2%5D%2C%22timestamp%22%3A1541540637300%7D%5D; Expires=Thu, 06-Dec-2018 21:43:57 GMT; Path=/
+Set-Cookie: DDC.inventory.view=full; Path=/new-inventory/
+Set-Cookie: dlVlpViews=5; Path=/
+Set-Cookie: ddcpoolid=DRR-la1websol-cms-botpool03;Path=/;Expires=Tue, 06-Nov-2018 21:48:57 GMT
